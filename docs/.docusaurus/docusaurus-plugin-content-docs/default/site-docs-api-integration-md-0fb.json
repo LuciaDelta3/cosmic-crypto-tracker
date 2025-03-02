@@ -1,0 +1,27 @@
+{
+  "id": "api-integration",
+  "title": "API Integration",
+  "description": "This page explains how the Cosmic Crypto Tracker integrates with cryptocurrency APIs to fetch and display real-time data.",
+  "source": "@site/docs/api-integration.md",
+  "sourceDirName": ".",
+  "slug": "/api-integration",
+  "permalink": "/docs/api-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-org/cosmic-crypto-tracker/tree/main/docs/docs/api-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/getting-started"
+  },
+  "next": {
+    "title": "State Management",
+    "permalink": "/docs/state-management"
+  }
+}

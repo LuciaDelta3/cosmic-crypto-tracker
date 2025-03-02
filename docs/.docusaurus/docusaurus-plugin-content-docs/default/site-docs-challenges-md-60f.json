@@ -1,0 +1,23 @@
+{
+  "id": "challenges",
+  "title": "Challenges & Solutions",
+  "description": "This page documents the key challenges faced during the development of the Cosmic Crypto Tracker and how they were addressed.",
+  "source": "@site/docs/challenges.md",
+  "sourceDirName": ".",
+  "slug": "/challenges",
+  "permalink": "/docs/challenges",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-github-org/cosmic-crypto-tracker/tree/main/docs/docs/challenges.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "State Management",
+    "permalink": "/docs/state-management"
+  }
+}

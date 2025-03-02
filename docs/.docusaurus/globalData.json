@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "api-integration",
+              "path": "/docs/api-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "challenges",
+              "path": "/docs/challenges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "state-management",
+              "path": "/docs/state-management",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/getting-started",
+                "label": "getting-started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
